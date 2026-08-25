@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="x_snc_devtools_dependency">
+    <x_snc_devtools_dependency action="INSERT_OR_UPDATE">
+        <dependency display_value="Procurement" source="com.snc.procurement">eda16eef83328750ac13b410feaad3e4</dependency>
+        <documentation_url/>
+        <name>Procurement</name>
+        <package_class>sys_plugins</package_class>
+        <reason/>
+        <repo_url/>
+        <sys_class_name>x_snc_devtools_dependency</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2026-08-25 14:52:33</sys_created_on>
+        <sys_id>6212226f83728750ac13b410feaad3d4</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Procurement</sys_name>
+        <sys_package display_value="Test Repo WORK IN PROGRESS" source="x_snc_test_repo123">37d481d02b0087149083fe395e91bf5b</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Test Repo WORK IN PROGRESS">37d481d02b0087149083fe395e91bf5b</sys_scope>
+        <sys_update_name>x_snc_devtools_dependency_6212226f83728750ac13b410feaad3d4</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2026-08-25 14:52:33</sys_updated_on>
+        <versions>1.0.0</versions>
+    </x_snc_devtools_dependency>
+</record_update>
