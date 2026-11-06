@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><record_update table="sys_scope_privilege">
     <sys_scope_privilege action="INSERT_OR_UPDATE">
         <operation>execute</operation>
-        <source_scope display_value="Test Repo WORK IN PROGRESS">37d481d02b0087149083fe395e91bf5b</source_scope>
+        <source_scope display_value="">37d481d02b0087149083fe395e91bf5b</source_scope>
         <status>allowed</status>
         <sys_class_name>sys_scope_privilege</sys_class_name>
         <sys_created_by>admin</sys_created_by>
@@ -9,9 +9,9 @@
         <sys_id>f8dbaa8b831c9310ac13b410feaad394</sys_id>
         <sys_mod_count>0</sys_mod_count>
         <sys_name>AppTouch</sys_name>
-        <sys_package display_value="Test Repo WORK IN PROGRESS" source="x_snc_test_repo123">37d481d02b0087149083fe395e91bf5b</sys_package>
+        <sys_package display_value="" source="x_snc_test_repo123">37d481d02b0087149083fe395e91bf5b</sys_package>
         <sys_policy/>
-        <sys_scope display_value="Test Repo WORK IN PROGRESS">37d481d02b0087149083fe395e91bf5b</sys_scope>
+        <sys_scope display_value="">37d481d02b0087149083fe395e91bf5b</sys_scope>
         <sys_update_name>sys_scope_privilege_f8dbaa8b831c9310ac13b410feaad394</sys_update_name>
         <sys_updated_by>admin</sys_updated_by>
         <sys_updated_on>2026-11-06 15:51:38</sys_updated_on>
