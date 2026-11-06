@@ -23,6 +23,7 @@
         <scope>x_snc_test_repo123</scope>
         <scoped_administration>false</scoped_administration>
         <short_description>x</short_description>
+        <sn_managed>false</sn_managed>
         <source>x_snc_test_repo123</source>
         <store_correlation_id/>
         <store_url/>
